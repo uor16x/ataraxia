@@ -1,2 +1,2 @@
 # ataraxia
-Meditation timer android app
+Meditation timer android app and backend
